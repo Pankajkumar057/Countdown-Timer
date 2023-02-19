@@ -1,0 +1,21 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(146, 227, 227);
+  color: rgb(37, 5, 53);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  size: 2em;
+}
+
+#input {
+  background-color: antiquewhite;
+  color: antiquewhite5;
+  color: rgb(143, 7, 79);
+  font-size: xx-large;
+}
+#current-time{
+  font-size: xxx-large;
+}
